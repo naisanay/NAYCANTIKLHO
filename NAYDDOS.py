@@ -8,7 +8,7 @@ def usage():
     print "#-------------------------------------------------------#"
     print "#   \033[1;91mCommand: " "python2 NAYDDOS.py " "<ip> <port> <packet> \033[1;32m   #"
     print "#                                                       #"
-    print "#\033[1;91mCreator : TAMPA NAMA \033[1;32m##      ###       ##              #"
+    print "#\033[1;91mCreator : TAMPA NAMA \033[1;32m##     ###       ##               #"
     print "#\033[1;91mTeam    : ANT        \033[1;32m##     #          ##              #"
     print "#\033[1;91mYouTube : BG A16     \033[1;32m##     ##   ##    ##              #"
     print "#                    ## \033[1;91m ##    \033[1;32m#  \033[1;91m##   \033[1;32m##               #"
